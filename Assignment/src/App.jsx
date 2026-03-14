@@ -45,7 +45,6 @@ function Search(props) {
       <input
 
         id="search"
-
         type="text"
         value={props.searchTerm}
         onChange={props.onSearch}
